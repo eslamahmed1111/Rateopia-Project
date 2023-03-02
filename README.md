@@ -19,6 +19,16 @@ Web Application for citizens to rate people for positive things and negative thi
   >FrontEnd: HTML,CSS, and Javascript.<Br>
   >BackEnd: PHP, and MySQL.<Br>
   >FaceRecognition:python,numpy, and OpenCV<Br>
+  
+  
+  
+  My role:<Br>
+•	Database creation, integration, management, and security.<Br>
+•	Security settings and hack prevents :by Hash function for passwords and Message authentication codes for reports. <Br>
+•	Make Folder for every Report and Citizen.<Br>
+•	Make people to send us emails through the mail server.<Br>
+•	Send verification to new users.<Br>
+
 
 
 
